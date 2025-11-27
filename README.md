@@ -25,7 +25,15 @@
 ## 📸 截图
 
 <p align="center">
-  <img src="screenshots/main.png" width="600" alt="主界面">
+  <img src="screenshots/main1.png" width="600" alt="主界面">
+</p>
+
+<p align="center">
+  <img src="screenshots/main2.png" width="600" alt="签名过程">
+</p>
+
+<p align="center">
+  <img src="screenshots/main3.png" width="600" alt="帮助界面">
 </p>
 
 ## 🚀 安装
